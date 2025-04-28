@@ -32,7 +32,7 @@ The primary goal was to uncover actionable insights that drive business strategy
 
 ## Key Business Analysis and Insights
 
-> 🔎 **A full detailed business report is available [here](INSERT-LINK-HERE)**, containing extended analysis, findings, and strategic recommendations.
+> 🔎 **A full detailed business report is available [here](https://github.com/vijaykumar1799/Bike-Store-Sales-Analysis-Dashboard/blob/main/Bike%20Business%20Analysis.pdf)**, containing extended analysis, findings, and strategic recommendations.
 
 ---
 
