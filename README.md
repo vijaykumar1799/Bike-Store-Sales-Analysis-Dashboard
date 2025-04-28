@@ -95,7 +95,17 @@ The primary goal was to uncover actionable insights that drive business strategy
 ---
 
 ## Sample Dashboard Screenshots
-*(Optional: Upload clean screenshots to your repo under `/screenshots` folder and reference here.)*
+### 📊 Executive Dashboard Overview
+![Executive Dashboard](https://github.com/vijaykumar1799/Bike-Store-Sales-Analysis-Dashboard/blob/main/screenshots/exec%20dash.gif)
+
+### 🌎 Regional Sales Performance
+![Regional Performance Map](https://github.com/vijaykumar1799/Bike-Store-Sales-Analysis-Dashboard/blob/main/screenshots/map.gif)
+
+### 📦 Product Portfolio Analysis
+![Top Products](https://github.com/vijaykumar1799/Bike-Store-Sales-Analysis-Dashboard/blob/main/screenshots/top%2010%20prods.jpg)
+
+### 👥 Customer Segmentation Analysis
+![Customer Segmentation](https://github.com/vijaykumar1799/Bike-Store-Sales-Analysis-Dashboard/blob/main/screenshots/customer.gif)
 
 ---
 
